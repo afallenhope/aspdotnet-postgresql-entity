@@ -2,5 +2,16 @@
 
 This project was a skeleton project created on Gentoo Linux 6.6.47-gentoo-x86_64
 
-This allows for ASP.NET Core 8 + PostgreSQL + Entity (yes... I spelled it wrong in the repo...)
+This allows for ASP.NET Core 8 + PostgreSQL + Entity 
+
+## Purpose
+
+This way I can just clone this repo any time I want an MVC + PostgreSQL + Entity
+
+
+## Sensitive Info
+
+Yes, I'm aware the username / password to my docker container is in the *.json.
+
+It's a docker container of my local computer. I'll add dotnet env.
 
