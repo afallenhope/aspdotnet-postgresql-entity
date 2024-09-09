@@ -6,7 +6,7 @@ This allows for ASP.NET Core 8 + PostgreSQL + Identity
 
 ## Purpose
 
-This way I can just clone this repo any time I want an MVC + PostgreSQL + Entity
+This way I can just clone this repo any time I want an MVC + PostgreSQL + Identity
 
 
 ## Sensitive Info
