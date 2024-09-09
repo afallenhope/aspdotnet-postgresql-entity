@@ -2,7 +2,7 @@
 
 This project was a skeleton project created on Gentoo Linux 6.6.47-gentoo-x86_64
 
-This allows for ASP.NET Core 8 + PostgreSQL + Entity 
+This allows for ASP.NET Core 8 + PostgreSQL + Identity 
 
 ## Purpose
 
